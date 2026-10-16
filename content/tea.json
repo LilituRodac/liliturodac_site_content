@@ -1,0 +1,23 @@
+{
+  "teaHello": "Hey, I’m Lux!",
+  "teaIntro": "I spill the tea so you don’t miss a drop.\nI have no filter and all the latest on Lilitu Rodac.",
+  "teaEmpty": "The kettle’s on. Nothing to spill yet.",
+  "tea": [
+    {
+      "date": "2026-03-20",
+      "label": "Substack",
+      "title": "There Are Things My Family Agreed Not to Say",
+      "text": "My first post on Substack.",
+      "url": "https://liliturodac.substack.com/p/there-are-things-my-family-agreed",
+      "image": "/media/cover-there-are-things-my-family-agreed.jpg"
+    },
+    {
+      "date": "2026-07-10",
+      "label": "Substack",
+      "title": "Okay, It's Happening...",
+      "text": "Paid subscriptions are open (and yes, there's a free trial)",
+      "url": "https://liliturodac.substack.com/p/okay-its-happening",
+      "image": "/media/cover-okay-its-happening.jpg"
+    }
+  ]
+}

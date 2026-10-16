@@ -1,0 +1,715 @@
+{
+  "_how_to_add": "Each nugget is written here, in this file. Only \"title\" and \"text\" are needed. \"kind\" is a small label (Book, Habit, Person, Idea...), \"link\" is optional and only used if you want to point somewhere; add \"linkText\" (words from \"text\") to put the link on those words instead of a separate \"Find it here\". Put a comma after every entry except the last. Nuggets with \"top\": true show first, in the order they appear here; the page then mixes the rest so the same person never appears twice in a row.",
+  "nuggets": [
+    {
+      "title": "Shelise Ann Sola",
+      "kind": "Person",
+      "text": "Host, Cults to Consciousness",
+      "link": "https://www.youtube.com/cultstoconsciousness",
+      "image": "",
+      "tags": [
+        "Person"
+      ],
+      "top": true,
+      "linkText": "Cults to Consciousness"
+    },
+    {
+      "title": "Jesus Camp",
+      "kind": "Movie",
+      "text": "Heidi Ewing and Rachel Grady, 2006",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Saved!",
+      "kind": "Movie",
+      "text": "Brian Dannelly, 2004",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Salem witch trials",
+      "kind": "History",
+      "text": "1692",
+      "link": "",
+      "image": "",
+      "tags": [
+        "History"
+      ],
+      "top": true
+    },
+    {
+      "title": "“One of the saddest lessons of history is this: If we've been bamboozled long enough, we tend to reject any evidence of the bamboozle. We're no longer interested in finding out the truth. The bamboozle has captured us.”",
+      "kind": "Quote",
+      "text": "Carl Sagan, The Demon-Haunted World",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ],
+      "top": true
+    },
+    {
+      "title": "Wild Wild Country",
+      "kind": "TV",
+      "text": "Netflix, 2018",
+      "link": "https://en.wikipedia.org/wiki/Wild_Wild_Country",
+      "linkText": "Wild Wild Country",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "The Vow",
+      "kind": "TV",
+      "text": "HBO, 2020",
+      "link": "https://en.wikipedia.org/wiki/The_Vow_(TV_series)",
+      "linkText": "The Vow",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "The Way Down: God, Greed, and the Cult of Gwen Shamblin",
+      "kind": "TV",
+      "text": "HBO Max, 2021",
+      "link": "https://en.wikipedia.org/wiki/The_Way_Down_(TV_series)",
+      "linkText": "The Way Down: God, Greed, and the Cult of Gwen Shamblin",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Love Has Won: The Cult of Mother God",
+      "kind": "TV",
+      "text": "HBO, 2023",
+      "link": "https://en.wikipedia.org/wiki/Love_Has_Won:_The_Cult_of_Mother_God",
+      "linkText": "Love Has Won: The Cult of Mother God",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "The Secrets of Hillsong",
+      "kind": "TV",
+      "text": "FX and Hulu, 2023",
+      "link": "https://www.hulu.com/series/the-secrets-of-hillsong-41cb2b50-df48-485c-8963-0aafca4a8601",
+      "linkText": "The Secrets of Hillsong",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Shiny Happy People: Duggar Family Secrets",
+      "kind": "TV",
+      "text": "Prime Video, 2023",
+      "link": "https://en.wikipedia.org/wiki/Shiny_Happy_People_(TV_series)",
+      "linkText": "Shiny Happy People: Duggar Family Secrets",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Desperately Seeking Soulmate: Escaping Twin Flames Universe",
+      "kind": "TV",
+      "text": "Prime Video, 2023",
+      "link": "https://en.wikipedia.org/wiki/Desperately_Seeking_Soulmate:_Escaping_Twin_Flames_Universe",
+      "linkText": "Desperately Seeking Soulmate: Escaping Twin Flames Universe",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Waco: Madman or Messiah",
+      "kind": "TV",
+      "text": "A&E, 2018",
+      "link": "https://en.wikipedia.org/wiki/Waco:_Madman_or_Messiah",
+      "linkText": "Waco: Madman or Messiah",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Seduced: Inside the NXIVM Cult",
+      "kind": "TV",
+      "text": "Starz, 2020",
+      "link": "https://en.wikipedia.org/wiki/Seduced:_Inside_the_NXIVM_Cult",
+      "linkText": "Seduced: Inside the NXIVM Cult",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Keep Sweet: Pray and Obey",
+      "kind": "TV",
+      "text": "Netflix, 2022",
+      "link": "https://en.wikipedia.org/wiki/Keep_Sweet:_Pray_and_Obey",
+      "linkText": "Keep Sweet: Pray and Obey",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Trust Me: The False Prophet",
+      "kind": "TV",
+      "text": "Netflix, 2026",
+      "link": "https://en.wikipedia.org/wiki/Trust_Me:_The_False_Prophet",
+      "linkText": "Trust Me: The False Prophet",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "Follow the Prophet",
+      "kind": "Movie",
+      "text": "Drew Ann Rosenberg, 2009",
+      "link": "https://en.wikipedia.org/wiki/Follow_the_Prophet",
+      "linkText": "Follow the Prophet",
+      "image": "",
+      "tags": [
+        "Movie"
+      ],
+      "top": true
+    },
+    {
+      "title": "“To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, collected in \"Mortals and Others\"",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Mortals and Others",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“To conquer fear is the beginning of wisdom.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“I would never die for my beliefs because I might be wrong.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The good life is one inspired by love and guided by knowledge.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, What I Believe",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Many people would sooner die than think; in fact, they do so.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Fear is the main source of superstition, and one of the main sources of cruelty.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Unpopular Essays",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Liberal Decalogue",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Liberal Decalogue",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The time you enjoy wasting is not wasted time.”",
+      "kind": "Quote",
+      "text": "attributed to Bertrand Russell (attribution uncertain)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“War does not determine who is right — only who is left.”",
+      "kind": "Quote",
+      "text": "attributed to Bertrand Russell (attribution uncertain)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Religion is based, I think, primarily and mainly upon fear.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Why I Am Not a Christian",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“A good world needs knowledge, kindliness, and courage; it does not need a regretful hankering after the past.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Why I Am Not a Christian",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The secret of happiness is this: let your interests be as wide as possible.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, The Conquest of Happiness",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“It is undesirable to believe a proposition when there is no ground whatsoever for supposing it is true.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Sceptical Essays",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.”",
+      "kind": "Quote",
+      "text": "Bertrand Russell, Autobiography",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.”",
+      "kind": "Quote",
+      "text": "Mark Twain",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”",
+      "kind": "Quote",
+      "text": "attributed to Mark Twain (attribution uncertain)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Go to Heaven for the climate, Hell for the company.”",
+      "kind": "Quote",
+      "text": "Mark Twain",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Heaven goes by favor. If it went by merit, you would stay out and your dog would go in.”",
+      "kind": "Quote",
+      "text": "Mark Twain",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Faith is believing what you know ain't so.”",
+      "kind": "Quote",
+      "text": "Mark Twain, Following the Equator",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself.”",
+      "kind": "Quote",
+      "text": "Mark Twain",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Extraordinary claims require extraordinary evidence.”",
+      "kind": "Quote",
+      "text": "Carl Sagan",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.”",
+      "kind": "Quote",
+      "text": "Carl Sagan, The Demon-Haunted World",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The cosmos is within us. We are made of star-stuff.”",
+      "kind": "Quote",
+      "text": "Carl Sagan, Cosmos",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“You have to know the past to understand the present.”",
+      "kind": "Quote",
+      "text": "Carl Sagan",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“If you wish to make an apple pie from scratch, you must first invent the universe.”",
+      "kind": "Quote",
+      "text": "Carl Sagan, Cosmos",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“The truth may be puzzling. It may take some work to grapple with. It may be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what's true.”",
+      "kind": "Quote",
+      "text": "Carl Sagan",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“In science it often happens that scientists say, 'You know that's a really good argument; my position is mistaken,' and then they actually change their minds... I cannot recall the last time something like that happened in politics or religion.”",
+      "kind": "Quote",
+      "text": "Carl Sagan",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“There are three things I have learned never to discuss with people: religion, politics, and the Great Pumpkin.”",
+      "kind": "Quote",
+      "text": "Linus, It's the Great Pumpkin, Charlie Brown (Charles M. Schulz, 1966)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“He'll rise out of the pumpkin patch that he thinks is the most sincere.”",
+      "kind": "Quote",
+      "text": "Linus, It's the Great Pumpkin, Charlie Brown (Charles M. Schulz, 1966)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“I got a rock.”",
+      "kind": "Quote",
+      "text": "Charlie Brown, It's the Great Pumpkin, Charlie Brown (Charles M. Schulz, 1966)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“You've heard about fury in a woman scorned? Well, that's nothing compared to the fury of a woman who has been cheated out of tricks-or-treats.”",
+      "kind": "Quote",
+      "text": "Sally, It's the Great Pumpkin, Charlie Brown (Charles M. Schulz, 1966)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Just wait till next year, Charlie Brown. You'll see. Next year at this same time, I'll find a pumpkin patch that is real sincere.”",
+      "kind": "Quote",
+      "text": "Linus, It's the Great Pumpkin, Charlie Brown (Charles M. Schulz, 1966)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“Who are you going to believe, me or your own eyes?”",
+      "kind": "Quote",
+      "text": "Chico Marx, Duck Soup (Usually credited to Groucho)",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "“I never forget a face, but in your case I'll be glad to make an exception.”",
+      "kind": "Quote",
+      "text": "Groucho Marx",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Quote"
+      ]
+    },
+    {
+      "title": "It's the Great Pumpkin, Charlie Brown",
+      "kind": "Movie",
+      "text": "Charles M. Schulz, 1966",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "Arsenic and Old Lace",
+      "kind": "Movie",
+      "text": "Frank Capra, 1944",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "Meet Me in St. Louis",
+      "kind": "Movie",
+      "text": "Vincente Minnelli, 1944",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "Inherit the Wind",
+      "kind": "Movie",
+      "text": "Stanley Kramer, 1960",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "Monty Python's Life of Brian",
+      "kind": "Movie",
+      "text": "Terry Jones, 1979",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "13th",
+      "kind": "TV",
+      "text": "Ava DuVernay, Netflix, 2016. From slave to criminal with one amendment.",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Movie"
+      ]
+    },
+    {
+      "title": "God of the gaps",
+      "kind": "Idea",
+      "text": "The god who lives in whatever science hasn't explained yet. The gaps keep shrinking.",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Idea"
+      ]
+    },
+    {
+      "title": "The dragon in my garage",
+      "kind": "Idea",
+      "text": "Carl Sagan, The Demon-Haunted World. The invisible, incorporeal, floating dragon: a claim that dodges every test isn't a claim about anything.",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Idea"
+      ]
+    },
+    {
+      "title": "Bertrand Russell",
+      "kind": "Person",
+      "text": "Philosopher",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Person"
+      ]
+    },
+    {
+      "title": "Mark Twain",
+      "kind": "Person",
+      "text": "Writer",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Person"
+      ]
+    },
+    {
+      "title": "Carl Sagan",
+      "kind": "Person",
+      "text": "Astronomer",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Person"
+      ]
+    },
+    {
+      "title": "Charles M. Schulz",
+      "kind": "Person",
+      "text": "Cartoonist, Peanuts",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Person"
+      ]
+    },
+    {
+      "title": "Groucho Marx",
+      "kind": "Person",
+      "text": "Comedian",
+      "link": "",
+      "image": "",
+      "tags": [
+        "Person"
+      ]
+    },
+    {
+      "title": "Phineas Gage",
+      "kind": "History",
+      "text": "1848. A railroad foreman survives an iron rod through the skull and comes back a different person. The self lives in the brain.",
+      "link": "",
+      "image": "",
+      "tags": [
+        "History"
+      ]
+    }
+  ]
+}

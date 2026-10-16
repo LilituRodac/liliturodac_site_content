@@ -1,0 +1,10 @@
+{
+  "publication": "https://liliturodac.substack.com",
+  "seriesTag": "Series",
+  "startTag": "Series Start",
+  "endTag": "Series End",
+  "skipTag": "Off Site",
+  "inProgressDays": 45,
+  "cacheMinutes": 10,
+  "aboutPost": "new-here"
+}

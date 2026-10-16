@@ -1,0 +1,171 @@
+{
+  "_how_to_add": "Add a new entry to the quotes list: {\"text\": \"the quote\", \"source\": \"Essay title\", \"url\": \"https://liliturodac.substack.com/p/...\"}. Source and url are optional. Put a comma after the entry above. The firefly always shows the first quote first, then the rest in order.",
+  "quotes": [
+    {
+      "text": "I was a Georgia peach of a girl, sweet but easily bruised.",
+      "source": "Meet Lilly",
+      "url": "/about"
+    },
+    {
+      "text": "Be advised. The witness is considered unreliable.",
+      "source": "The Truth Is Out There",
+      "url": "https://liliturodac.substack.com/p/the-truth-is-out-there"
+    },
+    {
+      "text": "You are not a bridge. You are a person.",
+      "source": "I Cut Off My Toxic Family. Here’s Why I Don’t Regret It.",
+      "url": "https://liliturodac.substack.com/p/i-cut-off-my-toxic-family-heres-why"
+    },
+    {
+      "text": "Knowing the name didn’t undo the training.",
+      "source": "Whisper Screaming",
+      "url": "https://liliturodac.substack.com/p/whisper-screaming"
+    },
+    {
+      "text": "I wasn’t broken. I was trained.",
+      "source": "Whisper Screaming",
+      "url": "https://liliturodac.substack.com/p/whisper-screaming"
+    },
+    {
+      "text": "I got out of the spotlight. I left that audience. You can, too.",
+      "source": "Christian Hollywood",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood"
+    },
+    {
+      "text": "I never want money to be the reason you’re not here.",
+      "source": "Okay, It’s Happening...",
+      "url": "https://liliturodac.substack.com/p/okay-its-happening"
+    },
+  
+    {
+      "text": "There is nothing quite like being a person beloved by a cat.",
+      "source": "Golden Boy",
+      "url": "https://liliturodac.substack.com/p/golden-boy"
+    },
+    {
+      "text": "There will be yellows again.",
+      "source": "Yellow Brick Road",
+      "url": "https://liliturodac.substack.com/p/yellow-brick-road"
+    },
+    {
+      "text": "I take up space in rooms I used to make myself small in.",
+      "source": "Dark Times",
+      "url": "https://liliturodac.substack.com/p/dark-times"
+    },
+    {
+      "text": "You have time. You have permission. You have yourself.",
+      "source": "What Leaving a Cult Does to Your Identity",
+      "url": "https://liliturodac.substack.com/p/what-leaving-a-cult-does-to-your"
+    },
+    {
+      "text": "Surviving takes strength.",
+      "source": "What Leaving a Cult Does to Your Identity",
+      "url": "https://liliturodac.substack.com/p/what-leaving-a-cult-does-to-your"
+    },
+    {
+      "text": "Being human isn’t a problem to solve. It’s just where we all actually are.",
+      "source": "I Grew Up in a Cult. Here’s What It Cost Me to Learn I Was Human.",
+      "url": "https://liliturodac.substack.com/p/i-grew-up-in-a-cult-heres-what-it"
+    },
+    {
+      "text": "Sometimes it’s okay, even when I’m not prepared.",
+      "source": "Holy Vigilance",
+      "url": "https://liliturodac.substack.com/p/holy-symptoms-holy-vigilance"
+    },
+    {
+      "text": "Maybe life’s just messy. Maybe rest is needed to survive.",
+      "source": "Holy Vigilance",
+      "url": "https://liliturodac.substack.com/p/holy-symptoms-holy-vigilance"
+    },
+    {
+      "text": "I don’t think most of us were fooled. I think we were found.",
+      "source": "Christian Hollywood | Intermission",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-intermission"
+    },
+    {
+      "text": "You could come, but you couldn’t belong.",
+      "source": "Satanic Panic",
+      "url": "https://liliturodac.substack.com/p/satanic-panic"
+    },
+    {
+      "text": "Sometimes the truth takes cracking things open.",
+      "source": "The Eggsecutioner",
+      "url": "https://liliturodac.substack.com/p/the-eggsecutioner"
+    },
+    {
+      "text": "I had learned to bleed quietly.",
+      "source": "I Grew Up in a Cult. Here’s What It Cost Me to Learn I Was Human.",
+      "url": "https://liliturodac.substack.com/p/i-grew-up-in-a-cult-heres-what-it"
+    },
+    {
+      "text": "It’s about learning that what happened to you is not the same thing as who you are.",
+      "source": "What Leaving a Cult Does to Your Identity",
+      "url": "https://liliturodac.substack.com/p/what-leaving-a-cult-does-to-your"
+    },
+    {
+      "text": "You can be thirty-nine, or fifty, or twenty-two, and still get the map you should have had all along.",
+      "source": "My Faith Was Real. So Was My OCD.",
+      "url": "https://liliturodac.substack.com/p/my-faith-was-real-so-was-my-ocd-no"
+    },
+    {
+      "text": "I don’t have to perform anymore.",
+      "source": "Christian Hollywood | The Star",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-the-star"
+    },
+    {
+      "text": "I wasn’t going to shrink for her.",
+      "source": "Christian Hollywood | The Producers",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-the-producers"
+    },
+    {
+      "text": "You cannot see a symptom your environment is applauding.",
+      "source": "My Faith Was Real. So Was My OCD.",
+      "url": "https://liliturodac.substack.com/p/my-faith-was-real-so-was-my-ocd-no"
+    },
+    {
+      "text": "Looked like comfort. Ended up surveillance.",
+      "source": "My Faith Was Real. So Was My OCD.",
+      "url": "https://liliturodac.substack.com/p/my-faith-was-real-so-was-my-ocd-no"
+    },
+    {
+      "text": "Staying didn’t mean belonging.",
+      "source": "Christian Hollywood | The Star",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-the-star"
+    },
+    {
+      "text": "Even then, I was helping them sell it.",
+      "source": "Christian Hollywood | The Star",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-the-star"
+    },
+    {
+      "text": "My body was disappearing and everyone called it discipline.",
+      "source": "I Lost an Organ at Fourteen",
+      "url": "https://liliturodac.substack.com/p/i-lost-an-organ-at-fourteen"
+    },
+    {
+      "text": "Hope is not a strategy. And proximity is not healing.",
+      "source": "I Cut Off My Toxic Family. Here’s Why I Don’t Regret It.",
+      "url": "https://liliturodac.substack.com/p/i-cut-off-my-toxic-family-heres-why"
+    },
+    {
+      "text": "Every door they had, they’d closed. So I went where they couldn’t close one.",
+      "source": "Christian Hollywood | The Producers",
+      "url": "https://liliturodac.substack.com/p/christian-hollywood-the-producers"
+    },
+    {
+      "text": "That’s just managed abuse with better PR.",
+      "source": "I Cut Off My Toxic Family. Here’s Why I Don’t Regret It.",
+      "url": "https://liliturodac.substack.com/p/i-cut-off-my-toxic-family-heres-why"
+    },
+    {
+      "text": "Where I’m from, they’d call that a biggun!",
+      "source": "Yellow Brick Road",
+      "url": "https://liliturodac.substack.com/p/yellow-brick-road"
+    },
+    {
+      "text": "Written under a pen name. The events are real. The names are not.",
+      "source": "I Cut Off My Toxic Family. Here’s Why I Don’t Regret It.",
+      "url": "https://liliturodac.substack.com/p/i-cut-off-my-toxic-family-heres-why"
+    }
+  ]
+}
